@@ -4,6 +4,18 @@
 
 ---
 
+**Mata Kuliah :** Struktur Data  
+**Semester :** Genap 2025/2026  
+**Jenis Tugas :** Project Kelompok    
+
+### Identitas Kelompok  
+*Tugas ini dikerjakan oleh :* 
+1. **Nama :** I Putu Agus Adi Wiranata | **NIM :** [2501010068] | **Akun GitHub :** [@Wiranz]
+2. **Nama :** I Putu Vivekananda Gosvami | **NIM :** [2501010350] | **Akun GitHub :** [@Vivekananda2501]
+3. **Nama :** I Gede Arya Desta Adi Wiguna | **NIM :** [2501010083] | **Akun GitHub :** [@Adi4259j]
+
+---
+
 ## BAB 1 - Pendahuluan
 
 ### 1.1 Latar Belakang
